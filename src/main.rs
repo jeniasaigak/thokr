@@ -56,6 +56,7 @@ enum SupportedLanguage {
     English,
     English1k,
     English10k,
+    Numbers,
 }
 
 impl SupportedLanguage {
